@@ -40,7 +40,7 @@ Draws a 3D scatterplot for individual trees detected from Lidar data.
 }
 \examples{
 
-\dontrun{
+\donttest{
 #=======================================================================#
 # EXAMPLE 01: Plotting single trees
 #=======================================================================#
