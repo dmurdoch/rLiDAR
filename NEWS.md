@@ -1,5 +1,13 @@
 <!-- NEWS.md is maintained by https://cynkra.github.io/fledge, do not edit -->
 
+# rLiDAR 0.1.6
+
+* Allow ForestCAS example to run with \donttest
+* forestCAS.R: add library(raster) to example
+* DESCRIPTION: add rgeos to Imports
+* Change http protocol to https for github.io
+
+
 # rLiDAR 0.1.5
 
 * Change dontrun to donttest for long examples
