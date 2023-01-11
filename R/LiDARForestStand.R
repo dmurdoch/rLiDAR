@@ -227,7 +227,7 @@
 #'}
 #'@export
 #'@importFrom geometry convhulln
-#'@importFrom rgl plot3d open3d bg3d rgl.triangles 
+#'@importFrom rgl plot3d open3d bg3d triangles3d 
 LiDARForestStand<-function(crownshape = c("cone", "ellipsoid","halfellipsoid", "paraboloid", "cylinder"), 
                         CL = 4, CW = 8,HCB = 10, X = 0, Y = 0, dbh = 0.3, crowncolor = "forestgreen", 
                        stemcolor = "chocolate4", resolution="high",mesh=TRUE) 
